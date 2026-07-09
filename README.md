@@ -1,4 +1,4 @@
-# portfolio-homepage
+# Welcome to my Portfolio
 
 This repository contains a simple, minimal portfolio homepage for the GitHub user `pembers1`. The homepage includes a short bio, what I do, what I'm passionate about, and direct links to project repositories:
 
