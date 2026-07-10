@@ -10,7 +10,7 @@ I have experience analysing inventory, sales, and replenishment data to support 
 
 This portfolio showcases projects focused on real-world business analysis and reporting techniques. All projects use publicly available, anonymised, or synthetic data.
 
-#Projects
+# Projects
 
 - https://github.com/pembers1/project-1
 - https://github.com/pembers1/project-2
