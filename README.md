@@ -1,14 +1,18 @@
 # Welcome to my Portfolio
 
-I'm a Stock Control professional transitioning into roles focusing on data analysis and business intelligence.
-
-I have experience analysing inventory, sales, and replenishment data to support business decisions. I'm currently developing my skills in:
+I currently work in Stock Control, where I use data to support inventory management, stock optimisation, replenishment, and operational decision-making.
+This portfolio showcases a collection of real-world analytics, automation, and business intelligence projects inspired by challenges encountered in inventory management and retail operations.
+Through these projects, I demonstrate skills in:
 
 - Excel
 - Power BI
 - SQL
+- Data Analysis
+- Business Intelligence
+- Process Automation
+- Inventory Analytics
 
-This portfolio showcases projects focused on real-world business analysis and reporting techniques. All projects use publicly available, anonymised, or synthetic data.
+All projects use publicly available, anonymised, or synthetic data and are designed to showcase analytical thinking, problem-solving, and reporting techniques in a professional environment.
 
 # Projects
 
