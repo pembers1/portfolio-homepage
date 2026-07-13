@@ -7,8 +7,7 @@ This portfolio showcases a collection of real-world analytics, automation, and b
 Through these projects, I demonstrate skills in:
 
 - Excel
-- Power BI
-- SQL
+- Tableau
 - Data Analysis
 - Business Intelligence
 - Process Automation
