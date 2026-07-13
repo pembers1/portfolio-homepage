@@ -1,23 +1,32 @@
-# Welcome to my Portfolio
+# Data Analytics & Business Intelligence Portfolio
 
 Transforming operational data into business decisions.
 
-## About Me
+# About Me
 
 I currently work in Stock Control, where I use data to support inventory management, stock optimisation, replenishment, and operational decision-making.
 
 This portfolio showcases a collection of real-world analytics, automation, and business intelligence projects inspired by challenges encountered in inventory management and retail operations.
 
+My goal is to combine operational experience with data analytics to develop solutions that improve efficiency, support decision-making, and deliver measurable business value.
+
+#Skills
+
 Through these projects, I demonstrate skills in:
 
-- Excel
+- Microsoft Excel
 - Tableau
 - Data Analysis
 - Business Intelligence
 - Process Improvement
+- Inventory Analytics
+- Data Visualisation
+- Decision Support
 - Early Issue Identification
 
-In addition, bla bla bla bla:
+#Project Structure
+
+Each project follows a structured case-study format:
 
 - Project Summary
 - Business Problem
@@ -28,14 +37,16 @@ In addition, bla bla bla bla:
 - Screenshots & Workflow Evidence
 - Skills Demonstrated
 
+This portfolio focuses on business outcomes and practical problem solving rather than technical implementations alone.
+
 All projects use publicly available, anonymised, or synthetic data and are designed to showcase analytical thinking, problem-solving, and reporting techniques in a professional environment.
 
-## Projects
+# Projects
 
 - https://github.com/pembers1/project-1
 - https://github.com/pembers1/project-2
 - https://github.com/pembers1/project-3
 
-## Contact
+# Contact
 
 LinkedIn: https://www.linkedin.com/in/daniel-isaac-pemberton/
