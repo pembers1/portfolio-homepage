@@ -10,8 +10,8 @@ Through these projects, I demonstrate skills in:
 - Tableau
 - Data Analysis
 - Business Intelligence
-- Process Automation
-- Inventory Analytics
+- Process Improvement
+- Early Issue Identification
 
 All projects use publicly available, anonymised, or synthetic data and are designed to showcase analytical thinking, problem-solving, and reporting techniques in a professional environment.
 
