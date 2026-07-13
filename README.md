@@ -10,7 +10,7 @@ This portfolio showcases a collection of real-world analytics, automation, and b
 
 My goal is to combine operational experience with data analytics to develop solutions that improve efficiency, support decision-making, and deliver measurable business value.
 
-#Skills
+# Skills
 
 Through these projects, I demonstrate skills in:
 
@@ -24,7 +24,7 @@ Through these projects, I demonstrate skills in:
 - Decision Support
 - Early Issue Identification
 
-#Project Structure
+# Structure
 
 Each project follows a structured case-study format:
 
