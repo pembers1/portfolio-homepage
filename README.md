@@ -1,8 +1,8 @@
-#### Welcome to my Portfolio
+# Welcome to my Portfolio
 
 Transforming operational data into business decisions.
 
-# About Me
+## About Me
 
 I currently work in Stock Control, where I use data to support inventory management, stock optimisation, replenishment, and operational decision-making.
 
@@ -30,12 +30,12 @@ In addition, bla bla bla bla:
 
 All projects use publicly available, anonymised, or synthetic data and are designed to showcase analytical thinking, problem-solving, and reporting techniques in a professional environment.
 
-# Projects
+## Projects
 
 - https://github.com/pembers1/project-1
 - https://github.com/pembers1/project-2
 - https://github.com/pembers1/project-3
 
-# Contact
+## Contact
 
 LinkedIn: https://www.linkedin.com/in/daniel-isaac-pemberton/
