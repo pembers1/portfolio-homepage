@@ -15,7 +15,6 @@ My goal is to combine operational experience with data analytics to develop solu
 Through these projects, I demonstrate skills in:
 
 - Microsoft Excel
-- Tableau
 - Data Analysis
 - Business Intelligence
 - Process Improvement
