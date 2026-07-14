@@ -40,11 +40,15 @@ This portfolio focuses on business outcomes and practical problem solving rather
 
 All projects use publicly available, anonymised, or synthetic data and are designed to showcase analytical thinking, problem-solving, and reporting techniques in a professional environment.
 
-# Featured Projects
+# Featured Projects (Business Related)
 
 - https://github.com/pembers1/project-1
 - https://github.com/pembers1/project-2
 - https://github.com/pembers1/project-3
+
+# SKill Showcase (Demonstrations)
+
+
 
 # Contact
 
