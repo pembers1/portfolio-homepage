@@ -8,7 +8,7 @@ I currently work in Merchandising (Stock Control), where I use data to support i
 
 This portfolio showcases a collection of real-world analytics, automation, and business intelligence projects inspired by challenges encountered in inventory management and retail operations.
 
-My goal is to combine operational experience with data analytics to develop solutions that improve efficiency, support decision-making, and deliver measurable business value. I am currently looking into completing certifications or courses in Power BI.
+My goal is to combine operational experience with data analytics to develop solutions that improve efficiency, support decision-making, and deliver measurable business value. I am currently looking into completing certifications or courses in Power BI and SQL.
 
 # Skills
 
