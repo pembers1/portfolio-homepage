@@ -46,9 +46,9 @@ All projects use publicly available, anonymised, or synthetic data and are desig
 - https://github.com/pembers1/project-2
 - https://github.com/pembers1/project-3
 
-# SKill Showcase (Demonstrations)
+# Skill Showcase (Demonstrations)
 
-
+- https://github.com/pembers1/project-4
 
 # Contact
 
