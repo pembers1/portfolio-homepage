@@ -44,7 +44,7 @@ All projects use publicly available, anonymised, or synthetic data and are desig
 
 - [Anomaly Detection & Exception Reporting](https://github.com/pembers1/project-1)
 - [Scenario Modelling & Profile Optimisation](https://github.com/pembers1/project-2)
-- https://github.com/pembers1/project-3
+- [Inventory Recall Quantity Recommendation Engine](https://github.com/pembers1/project-3)
 
 # Skill Showcase (Demonstrations)
 
