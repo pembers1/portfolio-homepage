@@ -26,7 +26,7 @@ Through these projects, I demonstrate skills in:
 
 # Structure
 
-Each project follows a structured case-study format:
+Each business related project follows a structured case-study format:
 
 - Project Summary
 - Business Problem
