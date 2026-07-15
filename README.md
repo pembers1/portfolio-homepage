@@ -42,7 +42,7 @@ All projects use publicly available, anonymised, or synthetic data and are desig
 
 # Featured Projects (Business Related)
 
-- [Anomaly Detection & Exception Reporting]https://github.com/pembers1/project-1
+- [Anomaly Detection & Exception Reporting](https://github.com/pembers1/project-1)
 - https://github.com/pembers1/project-2
 - https://github.com/pembers1/project-3
 
