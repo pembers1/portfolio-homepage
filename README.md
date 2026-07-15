@@ -48,7 +48,7 @@ All projects use publicly available, anonymised, or synthetic data and are desig
 
 # Skill Showcase (Demonstrations)
 
-- https://github.com/pembers1/project-4
+- [Power BI Retail Inventory Health Dashboard](https://github.com/pembers1/project-4)
 
 # Contact
 
