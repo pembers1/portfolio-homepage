@@ -52,4 +52,4 @@ All projects use publicly available, anonymised, or synthetic data and are desig
 
 # Contact
 
-LinkedIn: https://www.linkedin.com/in/daniel-isaac-pemberton/
+[LinkedIn](https://www.linkedin.com/in/daniel-isaac-pemberton/)
