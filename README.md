@@ -16,6 +16,7 @@ Through these projects, I demonstrate skills in:
 
 - Microsoft Excel
 - Power BI
+- Power Query
 - Data Analysis
 - Business Intelligence
 - Process Improvement
