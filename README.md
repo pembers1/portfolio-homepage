@@ -1,14 +1,16 @@
 # Data Analytics & Business Intelligence Portfolio
 
-Transforming operational data into business decisions.
+Using inventory and retail data to improve stock decisions, reduce inefficiencies, and support operational performance.
 
 # About Me
 
-I currently work in Merchandising (Stock Control), where I use data to support inventory management, stock optimisation, replenishment, and operational decision-making.
+I currently work in Merchandising (Stock Control), supporting inventory management, stock optimisation, replenishment, and operational decision-making across a 250+ store retail network.
 
-This portfolio showcases a collection of real-world analytics, automation, and business intelligence projects inspired by challenges encountered in inventory management and retail operations.
+This portfolio showcases analytics, automation, and business intelligence projects inspired by real operational challenges encountered in retail inventory management.
 
-My goal is to combine operational experience with data analytics to develop solutions that improve efficiency, support decision-making, and deliver measurable business value. I am currently looking into completing certifications or courses in Power BI and SQL.
+Project focus on identifying commercial opportunities, improving reporting processes, supporting decision-making, and developing practical solutions to inventory-related problems.
+
+My aim is to combine operational experience with analytical skills to deliver measurable business improvements through data.
 
 # Skills
 
