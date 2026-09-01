@@ -1,4 +1,4 @@
-# Data Analytics & Business Intelligence Portfolio
+# Data Analytics, Inventory & Business Intelligence Portfolio
 
 Using inventory and retail data to improve stock decisions, reduce inefficiencies, and support operational performance.
 
