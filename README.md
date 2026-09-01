@@ -8,7 +8,7 @@ I currently work in Merchandising (Stock Control), supporting inventory manageme
 
 This portfolio showcases analytics, automation, and business intelligence projects inspired by real operational challenges encountered in retail inventory management.
 
-Project focus on identifying commercial opportunities, improving reporting processes, supporting decision-making, and developing practical solutions to inventory-related problems.
+Projects focus on identifying commercial opportunities, improving reporting processes, supporting decision-making, and developing practical solutions to inventory-related problems.
 
 My aim is to combine operational experience with analytical skills to deliver measurable business improvements through data.
 
@@ -25,7 +25,7 @@ Through these projects, I demonstrate skills in:
 - Inventory Analytics
 - Data Visualisation
 - Decision Support
-- Early Issue Identification
+- Root Cause Analysis
 
 # Structure
 
