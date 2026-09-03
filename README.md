@@ -1,4 +1,4 @@
-# Data Analytics, Inventory & Business Intelligence Portfolio
+# Inventory, Merchandising & Analytics Portfolio
 
 Using inventory, sales and product performance data to support stock allocation, inventory optimisation and commercial decision making across retail environments.
 
