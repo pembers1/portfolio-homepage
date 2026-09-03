@@ -24,7 +24,7 @@ Through these projects, I demonstrate skills in:
 - Product Performance Analysis
 - Process Improvement
 - Inventory Optimisation
-- Data Visualisation
+- Stock Allocation
 - Commercial Decision Support
 - Root Cause Analysis
 
