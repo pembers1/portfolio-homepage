@@ -17,7 +17,7 @@ My aim is to combine operational experience with analytical skills to deliver me
 Through these projects, I demonstrate skills in:
 
 - Advanced Microsoft Excel
-- Power BI
+- Power BI (Foundational)
 - Power Query
 - Data Analysis
 - Inventory Planning
