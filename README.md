@@ -1,10 +1,10 @@
 # Data Analytics, Inventory & Business Intelligence Portfolio
 
-Using inventory and retail data to improve stock decisions, reduce inefficiencies, and support operational performance.
+Using inventory, sales and product performance data to support stock allocation, inventory optimisation and commercial decision making across retail environments.
 
 # About Me
 
-I currently work in Merchandising (Stock Control), supporting inventory management, stock optimisation, replenishment, and operational decision-making across a 250+ store retail network.
+I currently work in Merchandising (Stock Control), supporting inventory planning, stock allocation, replenishment and product performance analysis across a 250+ store retail network. My responsibilities include reviewing approximately 450 product lines and making profitability-based inventory decisions that support commercial performance and product availability.
 
 This portfolio showcases analytics, automation, and business intelligence projects inspired by real operational challenges encountered in retail inventory management.
 
@@ -16,15 +16,16 @@ My aim is to combine operational experience with analytical skills to deliver me
 
 Through these projects, I demonstrate skills in:
 
-- Microsoft Excel
+- Advanced Microsoft Excel
 - Power BI
 - Power Query
 - Data Analysis
-- Business Intelligence
+- Inventory Planning
+- Product Performance Analysis
 - Process Improvement
-- Inventory Analytics
+- Inventory Optimisation
 - Data Visualisation
-- Decision Support
+- Commercial Decision Support
 - Root Cause Analysis
 
 # Structure
